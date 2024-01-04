@@ -1,0 +1,60 @@
+body {
+background-color: bisque;
+}
+
+header {
+    background-color: white;
+    width: 1200px;
+    height: 60px;
+    margin: 100px;
+}
+ 
+
+ul {
+    
+    word-spacing: 20px;
+    text-align: right;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    
+}
+
+.lacom  {
+word-spacing: normal;
+color: #00ACDC;
+}
+
+.color-world {
+    color: #00ACDC;
+}
+
+a {
+    font-size: 12px;
+    color: #000;
+    display: inline;
+    text-decoration: none; 
+  
+}
+
+li {
+    display: inline;
+    
+    
+}
+
+.li-img {
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 1110px;
+    
+
+
+    
+}
+
